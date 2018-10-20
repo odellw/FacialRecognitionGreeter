@@ -35,12 +35,12 @@ Names = ['Nick','Walker','Melissa','Peter','Karen','Jon_Marchetti','Harsha_Altur
              'Larisa','Julian','Christian','Emily','Karen','Emma_MacPhail','Gabriella']
 
 ### Set up greetings
-Greetings = ['Hello President Nick, your penis is so large. oh my god, give it to me', 
+Greetings = ['Hello President Nick', 
              "Hello Walker, you are so amazing. I love you",
              "Hot diggidy dog, it is Melissa", 
              "Hey Peter", 
              "Hey Karen", 
-             "Hello you piece of human garbage. You are trash John. I hope you die",
+             "Hello you piece of human garbage. You are trash John.",
              "Hey Harsha",
              "Hey Yumel",
              "Oh hey it's Leigh. Hi Leigh", 
