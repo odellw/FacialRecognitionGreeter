@@ -10,9 +10,9 @@ Using Haarcascade for detection and OpenCV's EigenFace, FisherFace, and LBPHFace
 
 Though the project had its ups and downs, it was certainly a great learning experience. Thanks to all those who let me take a bunch of pictures of them, and to Nicholas Bourdon for helping with the hardware.
 
-See this video for how it works
+See this video for it in action
 
 
-
+https://youtu.be/Fgctv-_GrGM
 
 
